@@ -1,6 +1,7 @@
 library(RColorBrewer)
-library(grid) 
-
+#library(grid) 
+#Commenting out library(grid) to see how Git works
+#
 fte_theme <- function() {
   
   # Generate the colors for the chart procedurally with RColorBrewer
